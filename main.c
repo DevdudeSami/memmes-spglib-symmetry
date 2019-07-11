@@ -8,7 +8,6 @@ int fi(char *target, char *nameptr[], int size)
     int i;
     for (i = 0; i < size; i++)
     {
-			// printf("III %s\t%s\n", target, nameptr[i]);
         if (strcmp(target,nameptr[i]) == 0)
         {
             return i;

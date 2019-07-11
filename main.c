@@ -94,7 +94,7 @@ int main(int argc, char **argv) {
   
 	printf("------- EQUIVALENT ATOMS -------\n");
 	for(int i = 0; i < n; i++) {
-		printf("%d ",equivalent_atoms[i]);
+		printf("%d: %d\n",i,equivalent_atoms[i]);
 	}
 	printf("\n\n");
 

@@ -12,6 +12,6 @@ C app taking a coordinate file and outputting symmetries using [spglib's spg_get
 ## Usage
 
 Usage:
-	./symm <file name> <lattice parameter> <spin even> <spin odd>\n
+	`./symm <file name> <lattice parameter> <spin even> <spin odd>`
 
 You can copy `symm` to wherever you want but you must keep it in the same folder as `main`.

@@ -1,0 +1,11 @@
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/install.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/list_install_components.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/rebuild_cache.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/edit_cache.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/install/strip.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/install/local.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/symspg.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/spglibtest.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/symspg_static.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/check.dir
+/home/mohamedsami144/Downloads/spglib-master/_build/CMakeFiles/test.dir

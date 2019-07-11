@@ -1,0 +1,5 @@
+/usr/local/lib/libsymspg.so.1.13.0
+/usr/local/lib/libsymspg.so.1
+/usr/local/lib/libsymspg.so
+/usr/local/lib/libsymspg.a
+/usr/local/include/spglib.h
